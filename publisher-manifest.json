@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "7c3507b245768850f2b6d76f",
+  "owner": "sdbqgfqxrnn",
+  "repo": "page-2c7d0554d0268e2a7efa1326",
+  "title": "53加速器(53vpn)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "2c7d0554d0268e2a7efa1326",
+      "a": "53加速器(53vpn)",
+      "b": "机场官网线路发布页",
+      "entity": "53加速器(53vpn)",
+      "brand": "53加速器(53vpn)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "6be9aa0fcdb681902ddd167113971cf136fc2852086487441b28cbe7c9eff9e2",
+      "content": {
+        "primary_entity": "53加速器(53vpn)",
+        "keyword1": "53加速器(53vpn)",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "根据常用设备选择对应客户端，再导入订阅信息即可开始使用。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "选好套餐并完成订阅导入，即可在对应设备上开始使用。",
+          "AI_CLOSING_TITLE": "开始配置你的加速服务",
+          "AI_DESCRIPTION": "，基础版每月15元含100GB流量支持3台设备，旗舰版每月35元含300GB流量支持5台设备并带IPLC专线，团队版每月85元含1000GB流量支持20台设备，年付分别为150元、350元和850元。按设备数量和流量需求选择套餐后，参照客户端文档导入订阅信息即可使用。",
+          "AI_FAQ_ANSWER_1": "基础版每月15元含100GB流量，支持3台设备；旗舰版每月35元含300GB流量，支持5台设备；团队版每月85元含1000GB流量，支持20台设备，可按年付节省费用。",
+          "AI_FAQ_ANSWER_2": "旗舰版支持5台设备同时在线，团队版支持20台，基础版支持3台。若家里手机、平板和电脑数量较多，建议选择设备数更高的套餐。",
+          "AI_FAQ_ANSWER_3": "年付比月付更划算，例如基础版年付150元、旗舰版年付350元、团队版年付850元，适合确定长期使用的用户。",
+          "AI_FAQ_ANSWER_4": "在对应设备客户端中导入订阅链接后即可使用，不同客户端操作略有差异，可查阅对应客户端的配置说明逐步完成。",
+          "AI_FAQ_ANSWER_5": "选择套餐并完成支付后，系统会提供订阅信息，按设备客户端指引导入后即可在支持的设备上使用。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "53加速器套餐价格和流量分别是多少？",
+          "AI_FAQ_QUESTION_2": "不同套餐支持几台设备同时在线？",
+          "AI_FAQ_QUESTION_3": "选择年付还是月付更划算？",
+          "AI_FAQ_QUESTION_4": "订阅后如何在客户端导入使用？",
+          "AI_FAQ_QUESTION_5": "购买套餐后可以立即使用吗？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "从流量额度、设备数量和专线优化三个角度，找到合适自己的方案。",
+          "AI_FEATURES_TITLE": "套餐与使用特点",
+          "AI_FEATURE_TEXT_1": "基础版每月15元含100GB流量，旗舰版每月35元含300GB流量，团队版每月85元含1000GB流量，按需选择不浪费。",
+          "AI_FEATURE_TEXT_2": "各档套餐分别支持3台、5台和20台设备同时在线，多设备用户可优先考虑设备数更多的版本。",
+          "AI_FEATURE_TEXT_3": "旗舰版提供IPLC专线游戏加速优化与全节点原生流媒体解锁，适合游戏与高清视频场景。",
+          "AI_FEATURE_TITLE_1": "流量档位清晰",
+          "AI_FEATURE_TITLE_2": "多设备支持",
+          "AI_FEATURE_TITLE_3": "专线流媒体优化",
+          "AI_GUIDE_INTRO": "三个步骤完成从选择到使用的流程。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "53加速器提供基础版、旗舰版与团队版订阅方案，覆盖日常浏览、流媒体与多设备场景。根据设备数量和流量需求选择套餐，再按客户端说明导入订阅，即可在不同设备上使用。",
+          "AI_HERO_SUBTITLE": "多设备订阅，按需选择",
+          "AI_HIGHLIGHT_1": "基础版每月15元含100GB流量",
+          "AI_HIGHLIGHT_2": "旗舰版IPLC专线游戏优化",
+          "AI_HIGHLIGHT_3": "年付方案更省费用",
+          "AI_PLANS_INTRO": "三档套餐分别对应不同流量与设备数量，可按使用人数和场景对比选择。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据每月流量需求和同时在线设备数量，从基础版、旗舰版和团队版中选择合适档位。",
+          "AI_STEP_TEXT_2": "确认常用设备支持情况，查看对应客户端配置要求与可用的订阅方式。",
+          "AI_STEP_TEXT_3": "按照所选客户端文档导入订阅信息，完成配置后即可开始使用。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "53加速器订阅选择"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "zjjwztc.cn",
+    "host": "zjjwztc.cn"
+  },
+  "file_hashes": {
+    "index.html": "f99e72c65ea6b25425f20aedbc9f733d0eb855da0b46743a83c4c21300ce2758",
+    "sitemap.xml": "3666a090ee5b35a06be861770b01a8e7652ac899195143026ae8cd84b4d53f6e",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "b099350e7db48409892c240d05ec89b0ca80d01274dbe2c16cd76d237a68cb1b",
+    "robots.txt": "9955168aab4c0afebde0b75dc5a9ec7e244d38ff2d82f077737258231a290d82",
+    "2a3e346662067f15ceb425ad483651f2.txt": "544d389385d3760aa7cc143b349750cb56e0834ba6a548bddd5b64cc296529a5"
+  },
+  "revision": "56a2357b051e0188d40a13e3feded423c9c6ee621c2da46ea619c689bfa11eac"
+}
